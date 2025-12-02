@@ -1,0 +1,1067 @@
+{
+  "categories": [
+    {
+      "id": "Desayunos",
+      "name": "Desayunos",
+      "theme": "gold",
+      "items": [
+        {
+          "id": "Croisanito",
+          "name": "Croisanito",
+          "description": "",
+          "price": 0.4,
+          "image": "assets\\item_Desayunos_Croisanito.webp"
+        },
+        {
+          "id": "Racion de Churros (4)",
+          "name": "Racion de Churros (4)",
+          "description": "",
+          "price": 2.0
+        },
+        {
+          "id": "Torrada Mantequilla y Mermelada",
+          "name": "Torrada Mantequilla y Mermelada",
+          "description": "",
+          "price": 1.7
+        },
+        {
+          "id": "Torrada Pan con Tomate y Aceite",
+          "name": "Torrada Pan con Tomate y Aceite",
+          "description": "",
+          "price": 1.6
+        },
+        {
+          "id": "Bikini",
+          "name": "Bikini",
+          "description": "",
+          "price": 3.5
+        },
+        {
+          "id": "Chocolate a la Taza Diferentes Sabores",
+          "name": "Chocolate a la Taza Diferentes Sabores",
+          "description": "",
+          "price": 2.5
+        },
+        {
+          "id": "Mini Bocata Frio + Cafe",
+          "name": "Mini Bocata Frio + Cafe",
+          "description": "",
+          "price": 3.1
+        },
+        {
+          "id": "Mini Bocata Frio + Caña",
+          "name": "Mini Bocata Frio + Caña",
+          "description": "",
+          "price": 3.2
+        },
+        {
+          "id": "Mini Bocata Frio + Refresco Lata",
+          "name": "Mini Bocata Frio + Refresco Lata",
+          "description": "",
+          "price": 3.95
+        },
+        {
+          "id": "Mini Bocata + Cafe",
+          "name": "Mini Bocata + Cafe",
+          "description": "(Bacon,Lomo o Pollo)",
+          "price": 4.2
+        },
+        {
+          "id": "Mini Bocata + Caña",
+          "name": "Mini Bocata + Caña",
+          "description": "(Bacon,Lomo o Pollo)",
+          "price": 4.5
+        },
+        {
+          "id": "Mini Bocata Tortilla de patatas + Cafe",
+          "name": "Mini Bocata Tortilla de patatas + Cafe",
+          "description": "",
+          "price": 3.5
+        },
+        {
+          "id": "Mini Bocata Frio + Zumo Botella",
+          "name": "Mini Bocata Frio + Zumo Botella",
+          "description": "",
+          "price": 3.9
+        },
+        {
+          "id": "Mini Bocata Caliente + Zumo Botella",
+          "name": "Mini Bocata Caliente + Zumo Botella",
+          "description": "",
+          "price": 4.5
+        },
+        {
+          "id": "Torrada (Mermelada y Mant.) + Cafe",
+          "name": "Torrada (Mermelada y Mant.) + Cafe",
+          "description": "",
+          "price": 2.9
+        },
+        {
+          "id": "Torrada con Tomate y Aceite + Cafe",
+          "name": "Torrada con Tomate y Aceite + Cafe",
+          "description": "",
+          "price": 2.6
+        },
+        {
+          "id": "Bikini + Cafe",
+          "name": "Bikini + Cafe",
+          "description": "",
+          "price": 4.7
+        },
+        {
+          "id": "Zumo Naranja Nat. + Mini Bocata Frio + Cafe",
+          "name": "Zumo Naranja Nat. + Mini Bocata Frio + Cafe",
+          "description": "",
+          "price": 5.4
+        },
+        {
+          "id": "Zumo Naranja Nat. + Mini Bocata Caliente + Cafe",
+          "name": "Zumo Naranja Nat. + Mini Bocata Caliente + Cafe",
+          "description": "",
+          "price": 6.4
+        },
+        {
+          "id": "4 Churros con Chocolate a la taza",
+          "name": "4 Churros con Chocolate a la taza",
+          "description": "",
+          "price": 3.8
+        },
+        {
+          "id": "4 Churros con cafe",
+          "name": "4 Churros con cafe",
+          "description": "",
+          "price": 3.4
+        },
+        {
+          "id": "3 Croisanitos con Cafe",
+          "name": "3 Croisanitos con Cafe",
+          "description": "",
+          "price": 2.5
+        },
+        {
+          "id": "3 Croisanitos con Chocolate a la Taza",
+          "name": "3 Croisanitos con Chocolate a la Taza",
+          "description": "",
+          "price": 3.5
+        },
+        {
+          "id": "Extra Queso",
+          "name": "Extra Queso",
+          "description": "",
+          "price": 0.3
+        }
+      ],
+      "image": "assets\\cat_Desayunos.jpg"
+    },
+    {
+      "id": "Bocadillos",
+      "name": "Bocadillos",
+      "theme": "ocean",
+      "items": [
+        {
+          "id": "Queso Curado",
+          "name": "Queso Curado",
+          "description": "",
+          "price": 4.15
+        },
+        {
+          "id": "Fuet",
+          "name": "Fuet",
+          "description": "",
+          "price": 3.9
+        },
+        {
+          "id": "Jamon Dulce",
+          "name": "Jamon Dulce",
+          "description": "",
+          "price": 3.6
+        },
+        {
+          "id": "Atun",
+          "name": "Atun",
+          "description": "",
+          "price": 4.1
+        },
+        {
+          "id": "Tortilla de Patatas",
+          "name": "Tortilla de Patatas",
+          "description": "Tortilla de patatas recién hecha",
+          "price": 4.35
+        },
+        {
+          "id": "Jamon de Reserva",
+          "name": "Jamon de Reserva",
+          "description": "",
+          "price": 5.4
+        },
+        {
+          "id": "Butifarra de L'Emporda",
+          "name": "Butifarra de L'Emporda",
+          "description": "",
+          "price": 4.95
+        },
+        {
+          "id": "Chorizo Iberico",
+          "name": "Chorizo Iberico",
+          "description": "",
+          "price": 5.05
+        },
+        {
+          "id": "Pollo",
+          "name": "Pollo",
+          "description": "",
+          "price": 6.1
+        },
+        {
+          "id": "Lomo",
+          "name": "Lomo",
+          "description": "",
+          "price": 5.7
+        },
+        {
+          "id": "Frankfurt",
+          "name": "Frankfurt",
+          "description": "",
+          "price": 5.35
+        },
+        {
+          "id": "Bacon",
+          "name": "Bacon",
+          "description": "",
+          "price": 5.1
+        },
+        {
+          "id": "Salchichas de Pages",
+          "name": "Salchichas de Pages",
+          "description": "",
+          "price": 5.5
+        },
+        {
+          "id": "Butifarra de Pages",
+          "name": "Butifarra de Pages",
+          "description": "",
+          "price": 5.85
+        },
+        {
+          "id": "Sobrasada de Mallorca",
+          "name": "Sobrasada de Mallorca",
+          "description": "",
+          "price": 4.95
+        },
+        {
+          "id": "Chistorra",
+          "name": "Chistorra",
+          "description": "",
+          "price": 5.65
+        },
+        {
+          "id": "Butifarra Negra",
+          "name": "Butifarra Negra",
+          "description": "",
+          "price": 4.85
+        },
+        {
+          "id": "Extra de Queso",
+          "name": "Extra de Queso",
+          "description": "",
+          "price": 0.5
+        },
+        {
+          "id": "Extra de Mayonesa",
+          "name": "Extra de Mayonesa",
+          "description": "",
+          "price": 0.5
+        }
+      ],
+      "image": "assets\\cat_Bocadillos.jpg",
+      "subcategories": [
+        {
+          "id": "MiniBocadillos",
+          "name": "MiniBocadillos",
+          "items": [
+            {
+              "id": "Queso Curado",
+              "name": "Queso Curado",
+              "description": "",
+              "price": 2.75
+            },
+            {
+              "id": "Fuet",
+              "name": "Fuet",
+              "description": "",
+              "price": 2.7
+            },
+            {
+              "id": "Jamon Dulce",
+              "name": "Jamon Dulce",
+              "description": "",
+              "price": 2.5
+            },
+            {
+              "id": "Atun",
+              "name": "Atun",
+              "description": "",
+              "price": 2.8
+            },
+            {
+              "id": "Tortilla de Patatas",
+              "name": "Tortilla de Patatas",
+              "description": "",
+              "price": 3.05
+            },
+            {
+              "id": "Jamon de Reserva",
+              "name": "Jamon de Reserva",
+              "description": "",
+              "price": 3.3
+            },
+            {
+              "id": "Butifarra de L'Emporda",
+              "name": "Butifarra de L'Emporda",
+              "description": "",
+              "price": 2.65
+            },
+            {
+              "id": "Bacon con Queso",
+              "name": "Bacon con Queso",
+              "description": "",
+              "price": 3.6
+            },
+            {
+              "id": "Chorizo Iberico",
+              "name": "Chorizo Iberico",
+              "description": "",
+              "price": 2.75
+            },
+            {
+              "id": "Sobrasada de Mallorca",
+              "name": "Sobrasada de Mallorca",
+              "description": "",
+              "price": 3.05
+            },
+            {
+              "id": "Salchichas",
+              "name": "Salchichas",
+              "description": "",
+              "price": 4.35
+            },
+            {
+              "id": "Pollo",
+              "name": "Pollo",
+              "description": "",
+              "price": 4.4
+            },
+            {
+              "id": "Lomo",
+              "name": "Lomo",
+              "description": "",
+              "price": 4.05
+            },
+            {
+              "id": "Chistorra",
+              "name": "Chistorra",
+              "description": "",
+              "price": 4.45
+            },
+            {
+              "id": "Butifarra Negra",
+              "name": "Butifarra Negra",
+              "description": "",
+              "price": 2.75
+            },
+            {
+              "id": "Extra de Queso",
+              "name": "Extra de Queso",
+              "description": "",
+              "price": 0.3
+            },
+            {
+              "id": "Extra de Mayonesa",
+              "name": "Extra de Mayonesa",
+              "description": "",
+              "price": 0.3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Vermuts",
+      "name": "Vermuts",
+      "theme": "forest",
+      "items": [
+        {
+          "id": "GRUMETE",
+          "name": "GRUMETE",
+          "description": "Mejillones,Olivas,Patatas y 1/2 L. Vermut",
+          "price": 10.9
+        },
+        {
+          "id": "SOBRECARGO",
+          "name": "SOBRECARGO",
+          "description": "Berberechos,Patatas,Olivas y 1/2 L. Vermut",
+          "price": 11.9
+        },
+        {
+          "id": "CONTRAMAESTRE",
+          "name": "CONTRAMAESTRE",
+          "description": "Almejas,Boquerones,Olivas,Patatas y 1/2 L. Vermut",
+          "price": 12.9
+        },
+        {
+          "id": "MAESTRE",
+          "name": "MAESTRE",
+          "description": "Boquerones,Olivas,Patatas 1/2 L. Vermut",
+          "price": 10.9
+        },
+        {
+          "id": "MARINERO",
+          "name": "MARINERO",
+          "description": "Navajas,Boquerones,Olivas,Patatas y 1/2 L. Vermut",
+          "price": 14.9
+        },
+        {
+          "id": "GAFE",
+          "name": "GAFE",
+          "description": "Zamburiñas,Navajas,Olivas,Patatas 1/2 L. Vermut",
+          "price": 14.9
+        },
+        {
+          "id": "TIMONEL",
+          "name": "TIMONEL",
+          "description": "Berberechos,Anchoas,Navajas,Patatas, Olivas y 1/2 L. Vermut",
+          "price": 16.3
+        },
+        {
+          "id": "POLIZON",
+          "name": "POLIZON",
+          "description": "Berberechos,Boquerones,Almejas,Mejillones,Patatas,Olivas y 1 L. Vermut",
+          "price": 25.9
+        },
+        {
+          "id": "CAPITAN",
+          "name": "CAPITAN",
+          "description": "Berberechos,Mejillones,Anchoas,Almejas,Boquerones,Zamburiñas,Olivas,Patatas 1 L. Vermut",
+          "price": 29.9
+        }
+      ],
+      "subcategories": [
+        {
+          "id": "OFERTA VERMUT",
+          "name": "OFERTA VERMUT",
+          "items": [
+            {
+              "id": "2 Vermuts de la Casa + Patatas Sergio's",
+              "name": "2 Vermuts de la Casa + Patatas Sergio's",
+              "description": "",
+              "price": 10.9
+            }
+          ]
+        },
+        {
+          "id": "Tapeo Clasico",
+          "name": "Tapeo Clasico",
+          "items": [
+            {
+              "id": "Berberechos 25/30",
+              "name": "Berberechos 25/30",
+              "description": "",
+              "price": 11.5
+            },
+            {
+              "id": "Almejas 20/25",
+              "name": "Almejas 20/25",
+              "description": "",
+              "price": 6.8
+            },
+            {
+              "id": "Mejillones 8/12",
+              "name": "Mejillones 8/12",
+              "description": "",
+              "price": 5.8
+            },
+            {
+              "id": "Navajas 6/8",
+              "name": "Navajas 6/8",
+              "description": "",
+              "price": 5.55
+            },
+            {
+              "id": "Zamburiñas",
+              "name": "Zamburiñas",
+              "description": "",
+              "price": 5.1
+            },
+            {
+              "id": "Olivas Rellenas",
+              "name": "Olivas Rellenas",
+              "description": "",
+              "price": 1.95
+            },
+            {
+              "id": "Anchoas del Cantabrico 6 Und.",
+              "name": "Anchoas del Cantabrico 6 Und.",
+              "description": "",
+              "price": 6.3
+            },
+            {
+              "id": "Boquerones 8 Und.",
+              "name": "Boquerones 8 Und.",
+              "description": "",
+              "price": 5.9
+            },
+            {
+              "id": "Patatas Bolsa",
+              "name": "Patatas Bolsa",
+              "description": "",
+              "price": 1.9
+            },
+            {
+              "id": "Vermut Blanco/Negro de la Casa",
+              "name": "Vermut Blanco/Negro de la Casa",
+              "description": "",
+              "price": 3.0
+            }
+          ]
+        }
+      ],
+      "image": "assets\\cat_Vermuts.jpg"
+    },
+    {
+      "id": "Tapas",
+      "name": "Tapas",
+      "theme": "lavender",
+      "items": [
+        {
+          "id": "Choricitos a la Sidra",
+          "name": "Choricitos a la Sidra",
+          "description": "",
+          "price": 7.9
+        },
+        {
+          "id": "Fries&Chips Sergio's",
+          "name": "Fries&Chips Sergio's",
+          "description": "Cebolla Caramelizada,Bacon y Queso Chedar",
+          "price": 2.5
+        },
+        {
+          "id": "Callos a la Andaluza",
+          "name": "Callos a la Andaluza",
+          "description": "",
+          "price": 7.8
+        },
+        {
+          "id": "Mejillones a la Marinera",
+          "name": "Mejillones a la Marinera",
+          "description": "",
+          "price": 7.95
+        },
+        {
+          "id": "Torreznos de Soria",
+          "name": "Torreznos de Soria",
+          "description": "Torreznos de Soria con Pan con Tomate",
+          "price": 6.9
+        },
+        {
+          "id": "Palitos de Mozzarella",
+          "name": "Palitos de Mozzarella",
+          "description": "",
+          "price": 5.3
+        },
+        {
+          "id": "Fingers de Pollo",
+          "name": "Fingers de Pollo",
+          "description": "",
+          "price": 5.8
+        },
+        {
+          "id": "Pincho de Tortilla",
+          "name": "Pincho de Tortilla Und",
+          "description": "",
+          "price": 1.6
+        },
+        {
+          "id": "Patatas Gajo",
+          "name": "Patatas Gajo",
+          "description": "Con salsa Sergio*s",
+          "price": 6.25
+        },
+        {
+          "id": "Pinchos Morunos",
+          "name": "Pinchos Morunos",
+          "description": "",
+          "price": 6.7
+        },
+        {
+          "id": "Patatas Bravas",
+          "name": "Patatas Bravas",
+          "description": "",
+          "price": 5.75
+        },
+        {
+          "id": "Patatas Fritas",
+          "name": "Patatas Fritas",
+          "description": "",
+          "price": 4.95
+        },
+        {
+          "id": "Rabas",
+          "name": "Rabas",
+          "description": "",
+          "price": 7.9
+        },
+        {
+          "id": "Buñuelos de Bacalao",
+          "name": "Buñuelos de Bacalao",
+          "description": "",
+          "price": 5.7
+        },
+        {
+          "id": "Tiras de Pollo Rebozadas Sergio's",
+          "name": "Tiras de Pollo Rebozadas Sergio's",
+          "description": "",
+          "price": 6.5
+        },
+        {
+          "id": "Pechuguitas de Pollo Barbacoa",
+          "name": "Pechuguitas de Pollo Barbacoa",
+          "description": "",
+          "price": 5.2
+        },
+        {
+          "id": "Brochetas de Pollo Yakitori 4 Und.",
+          "name": "Brochetas de Pollo Yakitori 4 Und.",
+          "description": "",
+          "price": 7.8
+        },
+        {
+          "id": "Chistorra",
+          "name": "Chistorra",
+          "description": "Chistorra con Pan con Tomate",
+          "price": 6.5
+        },
+        {
+          "id": "Pollo Kentucky",
+          "name": "Pollo Kentucky",
+          "description": "",
+          "price": 6.9
+        },
+        {
+          "id": "Alcachofas Rebozadas Sergio's",
+          "name": "Alcachofas Rebozadas Sergio's",
+          "description": "",
+          "price": 8.9
+        },
+        {
+          "id": "Alitas de Pollo (5 und)",
+          "name": "Alitas de Pollo (5 und)",
+          "description": "",
+          "price": 5.5
+        },
+        {
+          "id": "Bomba de Ternera (3 und)",
+          "name": "Bomba de Ternera (3 und)",
+          "description": "",
+          "price": 5.2
+        },
+        {
+          "id": "Extra de Pan",
+          "name": "Extra de Pan",
+          "description": "",
+          "price": 1.5
+        },
+        {
+          "id": "Extra de Pan con Tomate",
+          "name": "Extra de Pan con Tomate",
+          "description": "",
+          "price": 2.5
+        }
+      ],
+      "subcategories": [],
+      "image": "assets\\cat_Tapas.jpg"
+    },
+    {
+      "id": "Torradas",
+      "name": "Torradas",
+      "theme": "forest",
+      "items": [
+        {
+          "id": "Torrada de Atun",
+          "name": "Torrada de Atun",
+          "description": "",
+          "price": 5.4
+        },
+        {
+          "id": "Torrada de Anchoas",
+          "name": "Torrada de Anchoas",
+          "description": "",
+          "price": 6.5
+        },
+        {
+          "id": "Torrada de Atun y Anchoas",
+          "name": "Torrada de Atun y Anchoas",
+          "description": "",
+          "price": 7.4
+        },
+        {
+          "id": "Torrada de Tortilla Patatas con cebolla",
+          "name": "Torrada de Tortilla Patatas con cebolla",
+          "description": "",
+          "price": 5.95
+        },
+        {
+          "id": "Torrada de Pollo",
+          "name": "Torrada de Pollo",
+          "description": "",
+          "price": 5.9
+        },
+        {
+          "id": "Torrada de Bacon",
+          "name": "Torrada de Bacon",
+          "description": "",
+          "price": 5.5
+        },
+        {
+          "id": "Torrada de Lomo",
+          "name": "Torrada de Lomo",
+          "description": "",
+          "price": 5.95
+        },
+        {
+          "id": "Torrada de Butifarra de Pages",
+          "name": "Torrada de Butifarra de Pages",
+          "description": "",
+          "price": 6.2
+        },
+        {
+          "id": "Torrada de Salchichas de Pages",
+          "name": "Torrada de Salchichas de Pages",
+          "description": "",
+          "price": 5.8
+        },
+        {
+          "id": "Torrada de Lomo,Bacon y Queso",
+          "name": "Torrada de Lomo,Bacon y Queso",
+          "description": "",
+          "price": 7.55
+        },
+        {
+          "id": "Torrada de Jamon Dulce con Queso fundido",
+          "name": "Torrada de Jamon Dulce con Queso fundido",
+          "description": "",
+          "price": 6.1
+        },
+        {
+          "id": "Torrada de Jamon Reserva",
+          "name": "Torrada de Jamon Reserva",
+          "description": "",
+          "price": 6.5
+        },
+        {
+          "id": "Torrada de Queso Curado",
+          "name": "Torrada de Queso Curado",
+          "description": "",
+          "price": 5.85
+        },
+        {
+          "id": "Torrada de Sobrasada de Mallorca",
+          "name": "Torrada de Sobrasada de Mallorca",
+          "description": "",
+          "price": 5.55
+        },
+        {
+          "id": "Torrada de Fuet",
+          "name": "Torrada de Fuet",
+          "description": "",
+          "price": 4.8
+        },
+        {
+          "id": "Torrada de Butifarra de L'Emporda",
+          "name": "Torrada de Butifarra de L'Emporda",
+          "description": "",
+          "price": 5.25
+        },
+        {
+          "id": "Torrada de Chorizo Iberico",
+          "name": "Torrada de Chorizo Iberico",
+          "description": "",
+          "price": 5.4
+        },
+        {
+          "id": "Torrada de Jamon Dulce",
+          "name": "Torrada de Jamon Dulce",
+          "description": "",
+          "price": 4.55
+        },
+        {
+          "id": "Torrada de Frankfurt",
+          "name": "Torrada de Frankfurt",
+          "description": "",
+          "price": 5.0
+        },
+        {
+          "id": "Torrada de Chistorra",
+          "name": "Torrada de Chistorra",
+          "description": "",
+          "price": 6.3
+        },
+        {
+          "id": "Torrada de Butifarra Negra",
+          "name": "Torrada de Butifarra Negra",
+          "description": "",
+          "price": 5.15
+        },
+        {
+          "id": "Suplemento Extra de Queso o Bacon",
+          "name": "Suplemento Extra de Queso o Bacon",
+          "description": "",
+          "price": 0.5
+        }
+      ],
+      "subcategories": [],
+      "image": "assets\\cat_Torradas.jpg"
+    },
+    {
+      "id": "Tablas",
+      "name": "Tablas",
+      "theme": "ocean",
+      "items": [
+        {
+          "id": "Surtido de Embutidos",
+          "name": "Surtido de Embutidos",
+          "description": "2 Torradas con Tomate y Aceite",
+          "price": 8.95
+        },
+        {
+          "id": "Jamon Reserva",
+          "name": "Jamon Reserva",
+          "description": "2 Torradas con Tomate y Aceite",
+          "price": 11.9
+        },
+        {
+          "id": "Queso Curado",
+          "name": "Queso Curado",
+          "description": "2 Torradas con Tomate y Aceite",
+          "price": 8.6
+        }
+      ],
+      "subcategories": [],
+      "image": "assets\\cat_Tablas.jpg"
+    },
+    {
+      "id": "Platos Especiales",
+      "name": "Platos Especiales",
+      "theme": "ocean",
+      "items": [
+        {
+          "id": "Butifarra de Pages con Patatas Sergio's",
+          "name": "Butifarra de Pages con Patatas Sergio's",
+          "description": "",
+          "price": 9.95
+        },
+        {
+          "id": "Butifarra de Pages con Patatas Fritas o Bravas",
+          "name": "Butifarra de Pages con Patatas Fritas o Bravas",
+          "description": "",
+          "price": 8.95
+        }
+      ],
+      "subcategories": [],
+      "image": "assets\\cat_Platos Especiales.jpg"
+    },
+    {
+      "id": "Croquetas",
+      "name": "Croquetas",
+      "theme": "forest",
+      "items": [
+        {
+          "id": "6 Croquetas de Espinacas y Queso",
+          "name": "6 Croquetas de Espinacas y Queso",
+          "description": "",
+          "price": 7.1
+        },
+        {
+          "id": "6 Croquetas de Chipirones",
+          "name": "6 Croquetas de Chipirones",
+          "description": "",
+          "price": 7.55
+        },
+        {
+          "id": "6 Croquetas de Morcilla",
+          "name": "6 Croquetas de Morcilla",
+          "description": "",
+          "price": 6.5
+        },
+        {
+          "id": "6 Croquetas de Pollo",
+          "name": "6 Croquetas de Pollo",
+          "description": "",
+          "price": 7.5
+        },
+        {
+          "id": "6 Croquetas de Brandada de Bacalao",
+          "name": "6 Croquetas de Brandada de Bacalao",
+          "description": "",
+          "price": 7.7
+        },
+        {
+          "id": "6 Croquetas de Jamón",
+          "name": "6 Croquetas de Jamón",
+          "description": "",
+          "price": 6.8
+        },
+        {
+          "id": "6 Croquetas de Carne Asada",
+          "name": "6 Croquetas de Carne Asada",
+          "description": "",
+          "price": 7.2
+        },
+        {
+          "id": "6 Croquetas de Setas",
+          "name": "6 Croquetas de Setas",
+          "description": "",
+          "price": 7.45
+        },
+        {
+          "id": "6 Croquetas de Cocido",
+          "name": "6 Croquetas de Cocido",
+          "description": "",
+          "price": 7.5
+        },
+        {
+          "id": "6 Croquetas de Carrillera",
+          "name": "6 Croquetas de Carrillera",
+          "description": "Al Pedro Ximenez",
+          "price": 7.1
+        },
+        {
+          "id": "6 Croquetas de Merluza y Gambas",
+          "name": "6 Croquetas de Merluza y Gambas",
+          "description": "",
+          "price": 7.95
+        },
+        {
+          "id": "6 Croquetas de Cochinillo",
+          "name": "6 Croquetas de Cochinillo",
+          "description": "",
+          "price": 6.9
+        },
+        {
+          "id": "6 Croquetas de Rabo de Toro",
+          "name": "6 Croquetas de Rabo de Toro",
+          "description": "",
+          "price": 6.75
+        },
+        {
+          "id": "6 Croquetas de Calçots",
+          "name": "6 Croquetas de Calçots",
+          "description": "",
+          "price": 7.5
+        },
+        {
+          "id": "6 Croquetas de Pulpo Gallego",
+          "name": "6 Croquetas de Pulpo Gallego",
+          "description": "",
+          "price": 7.1
+        },
+        {
+          "id": "6 Croquetas de Queso de Cabra y Cebolla Caramelizada",
+          "name": "6 Croquetas de Queso de Cabra y Cebolla Caramelizada",
+          "description": "",
+          "price": 7.4
+        },
+        {
+          "id": "Croqueton de Cocido Und.",
+          "name": "Croqueton de Cocido Und.",
+          "description": "",
+          "price": 1.5
+        }
+      ],
+      "subcategories": [
+        {
+          "id": "Croquetrio's Sergio's",
+          "name": "Croquetrio's Sergio's",
+          "items": [
+            {
+              "id": "Surtido del Agua",
+              "name": "Surtido del Agua",
+              "description": "2 Croquetas Brandada de Bacalao\n2 Croquetas Chipirones\n2 Croquetas de Merluza con Gambas",
+              "price": 8.9
+            },
+            {
+              "id": "Surtido de la Tierra",
+              "name": "Surtido de la Tierra",
+              "description": "2 Croquetas Rabo de Toro\n2 Croquetas Carrillera al Pedro Ximenez\n2 Croquetas Cochinillo",
+              "price": 8.9
+            },
+            {
+              "id": "Surtido del Aire",
+              "name": "Surtido del Aire",
+              "description": "2 Croquetas Setas\n2 Croquetas Queso de Cabra y Cebolla Caramelizada\n2 Croquetas Calçots",
+              "price": 8.9
+            },
+            {
+              "id": "Surtido del Fuego",
+              "name": "Surtido del Fuego",
+              "description": "2 Croquetas de Cocido\n2 Croquetas de Jamon\n2 Croquetas de Pollo",
+              "price": 8.9
+            }
+          ],
+          "description": "Combos de Croquetas"
+        }
+      ],
+      "image": "assets\\cat_Croquetas.jpg"
+    },
+    {
+      "id": "Postres",
+      "name": "Postres",
+      "theme": "gold",
+      "items": [
+        {
+          "id": "Coulan",
+          "name": "Coulan",
+          "description": "Turron o Chocolate",
+          "price": 5.2
+        },
+        {
+          "id": "Tiramisú",
+          "name": "Tiramisú",
+          "description": "",
+          "price": 5.5
+        },
+        {
+          "id": "Torrija Caramelizada",
+          "name": "Torrija Caramelizada",
+          "description": "",
+          "price": 5.5
+        },
+        {
+          "id": "Tarta de Queso",
+          "name": "Tarta de Queso",
+          "description": "",
+          "price": 5.4
+        },
+        {
+          "id": "Tarrina Vainilla y Chocolate",
+          "name": "Tarrina Vainilla y Chocolate",
+          "description": "",
+          "price": 3.5
+        },
+        {
+          "id": "Tarrina Nata y Fresa",
+          "name": "Tarrina Nata y Fresa",
+          "description": "",
+          "price": 3.5
+        },
+        {
+          "id": "Sorbete de Limon",
+          "name": "Sorbete de Limon",
+          "description": "",
+          "price": 3.5
+        }
+      ],
+      "subcategories": [],
+      "image": "assets\\cat_Postres.jpg"
+    }
+  ]
+}
